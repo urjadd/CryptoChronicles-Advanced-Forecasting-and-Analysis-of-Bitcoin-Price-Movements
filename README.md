@@ -6,4 +6,5 @@ identify trends, anomalies, and volatility patterns to enhance decision-making i
 **Libraries Used:** Pandas, Numpy, Datetime, timedelta, yfinance, mlpfinance
 
 **Methodologies:** 
+
 **1.Data Collection:** Collected 10 years of Bitcoin data. 
