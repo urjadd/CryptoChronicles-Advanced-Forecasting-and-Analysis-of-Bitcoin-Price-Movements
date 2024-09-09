@@ -7,4 +7,4 @@ identify trends, anomalies, and volatility patterns to enhance decision-making i
 
 **Methodologies:** 
 
-**1.Data Collection:** Collected 10 years of Bitcoin data. 
+**1.Data Collection:** Collected/ Extracted 10 years of Bitcoin data from Yahoo Finance. 
